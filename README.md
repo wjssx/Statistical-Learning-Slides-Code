@@ -7,7 +7,7 @@
 
 - [CH00.pdf](https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH00%20OverView.pdf)
 - [CH01 Statistical Learning.pdf](https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH01%20Statistical%20Learning.pdf)
-- CH02 Perceptron.pdf(https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH02%20Perceptron.pdf)
+- [CH02 Perceptron.pdf](https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH02%20Perceptron.pdf)
 - CH03 KNN.pdf
 - CH04 NaiveBayes.pdf
 - CH05 DecisionTree.pdf
