@@ -6,7 +6,7 @@
 2021.03.23 16:03
 
 - CH00 OverView.pdf ![../Slides/CH00 OverView.pdf]
-- CH01 Statistical Learning.pdf
+- ![CH01 Statistical Learning.pdf]()
 - CH02 Perceptron.pdf
 - CH03 KNN.pdf
 - CH04 NaiveBayes.pdf
