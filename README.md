@@ -5,8 +5,8 @@
 
 2021.03.23 16:03
 
-- CH00 OverView.pdf ![../Slides/CH00 OverView.pdf]
-- ![https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH00%20OverView.pdf](CH01 Statistical Learning.pdf)
+- [CH00.pdf](https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH00%20OverView.pdf)
+- [CH01 Statistical Learning.pdf](https://github.com/wjssx/Statistical_Learning_Slides_Code/blob/main/Slides/CH01%20Statistical%20Learning.pdf)
 - CH02 Perceptron.pdf
 - CH03 KNN.pdf
 - CH04 NaiveBayes.pdf
