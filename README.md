@@ -13,3 +13,4 @@
 - CH05 DecisionTree.pdf
 - CH06 LogicRegression and Maximum Entropy Model.pdf
 - CH07 SVM.pdf
+- CH08 Boosting.pdf  (2021.03.26 22:04)
