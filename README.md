@@ -1,4 +1,4 @@
-# Statistical_Learning_Slides_Code
+# Statistical-Learning-Slides-Code
 #《数据仓库与数据挖掘》课程 Slides and Code
 ### 课本《统计学习方法》第二版
 
