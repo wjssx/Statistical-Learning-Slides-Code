@@ -14,3 +14,4 @@
 - CH06 LogicRegression and Maximum Entropy Model.pdf
 - CH07 SVM.pdf
 - CH08 Boosting.pdf  (2021.03.26 22:04)
+- CH09 EM.pdf (2021.03.30 16:47)
