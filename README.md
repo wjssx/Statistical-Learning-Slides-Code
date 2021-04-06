@@ -2,10 +2,7 @@
 #《数据仓库与数据挖掘》课程 Slides and Code
 ### 课本《统计学习方法》第二版
 
-2021.03.23 16:03
-
-
-- CH00.pdf
+- CH00.pdf (2021.03.23 16:03)
 - CH01 Statistical Learning.pdf
 - CH02 Perceptron.pdf
 - CH03 KNN.pdf
