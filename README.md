@@ -13,3 +13,5 @@
 - CH08 Boosting.pdf  (2021.03.26 22:04)
 - CH09 EM.pdf (2021.03.30 16:47)
 - CH10 Hidden Markov Model.pdf (2021.04.06 16:14)
+
+...... continue ......
