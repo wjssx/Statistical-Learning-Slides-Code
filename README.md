@@ -25,6 +25,8 @@ deleting.....
 
 -------
 
+update
+
 - CH10 Hidden Markov Model.pdf (2021.04.06 16:14)
 - CH15 SVD.pdf (2021.04.12 12:09)
 - CH16 PCA.pdf (2021.04.16 10:00)
