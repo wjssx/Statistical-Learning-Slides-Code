@@ -16,7 +16,16 @@ update.....
 - CH01 Statistical Learning.pdf
 - CH02 Perceptron.pdf
 - CH03 KNN.pdf
-- CH04 NaiveBayes.pdf
+- CH04 NaiveBayes.pdf 、
+- CH05 DecisionTree.pdf (2022.03.26 22:04)
+- CH06 LogicRegression and Maximum Entropy Model.pdf (2022.03.26 22:04)
+- CH07 SVM.pdf (2022.03.26 22:04)
+- CH08 Boosting.pdf  (2022.03.26 22:04)
+- CH09 EM.pdf (2022.03.26 22:04)
+- CH10 Hidden Markov Model.pdf (2022.03.26 22:04)
+- CH15 SVD.pdf (2022.03.26 22:04)
+- CH16 PCA.pdf (2022.03.26 22:04)
+- CH17 LSA.pdf (2022.03.26 22:04)
 
 
 -------
