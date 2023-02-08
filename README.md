@@ -15,7 +15,6 @@
 - Code_2022 2022年整理代码（感谢 学号：20195298 的计算专业同学）
 
 #### Slides
-now .....
 - CH00.pdf (2022.02.20 11:28)
 - CH01 Statistical Learning.pdf
 - CH02 Perceptron.pdf
@@ -33,7 +32,7 @@ now .....
 
 
 -------
-## history:
+## History versions:
 
 - CH00.pdf (2021.03.23 16:03)
 - CH01 Statistical Learning.pdf
