@@ -1,16 +1,20 @@
 # Statistical-Learning-Slides-Code
 
-## 2022-《数据挖掘技术》课程课件与参考代码
+## 2023-《数据挖掘技术》课程课件与参考代码
 
-### 教材：《统计学习方法》第二版（李航）
+### 教材：《机器学习方法》（李航）
 
+历史教材：
+- 《统计学习方法》（第二版）李航
+- 《统计学习方法》（第一版）李航
 #### Code
 
-- 参考代码
+- Code 2020年整理整理参考代码
+- Code_2022 2022年整理代码（感谢 学号：20195298 的计算专业同学）
 
 #### Slides
 
-update.....
+now .....
 
 - CH00.pdf (2022.02.20 11:28)
 - CH01 Statistical Learning.pdf
@@ -30,7 +34,7 @@ update.....
 
 -------
 
-delete
+history:
 
 - CH00.pdf (2021.03.23 16:03)
 - CH01 Statistical Learning.pdf
