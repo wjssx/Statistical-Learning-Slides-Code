@@ -36,6 +36,10 @@
 - CH15 SVD.pdf (2022.03.26 22:04)
 - CH16 PCA.pdf (2022.03.26 22:04)
 - CH17 LSA.pdf (2022.03.26 22:04)
+- CH21 PageRank (2021.05.02 16:52)
+- CH22 Transformer.pdf (2025.02.25)
+- CHX0 Summary (2021.05.17 16:21）
+- CHX5 NN-CNN.pdf (2025.02.25)
 
 -------
 ## History versions:
@@ -54,8 +58,5 @@
 - CH15 SVD.pdf (2021.04.12 12:09)
 - CH16 PCA.pdf (2021.04.16 10:00)
 - CH17 LSA.pdf (2021.04.25 14:32)
-- CH21 PageRank (2021.05.02 16:52)
-- CHX0 Summary (2021.05.17 16:21）
-
 
 ...... End ......
